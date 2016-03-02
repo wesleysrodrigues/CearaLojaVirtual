@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-
-namespace Ceara.LojaVirtual.Dominio.Entidade
+﻿namespace Quiron.LojaVirtual.Dominio.Entidades
 {
     public class Produto
     {
