@@ -1,4 +1,4 @@
-﻿namespace Quiron.LojaVirtual.Dominio.Entidades
+﻿namespace Ceara.LojaVirtual.Dominio.Entidades
 {
     public class Produto
     {
